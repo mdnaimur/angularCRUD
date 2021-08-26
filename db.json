@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "alken",
+      "lastName": "Rahman",
+      "email": "alken@gmail.com",
+      "phone": "019138292929",
+      "salary": "40004"
+    },
+    {
+      "id": 4,
+      "firstName": "Mn",
+      "emial": "mn@gmail.com",
+      "phone": "0922992",
+      "salary": "89563"
+    },
+    {
+      "id": 5,
+      "firstName": "Md Naimur",
+      "emial": "mn@gmail.com",
+      "phone": "01521348923",
+      "salary": "35000"
+    },
+    {
+      "id": 6,
+      "firstName": "Tamim",
+      "email": "khan@gmail.com",
+      "phone": "00303",
+      "salary": "83838"
+    },
+    {
+      "id": 7,
+      "firstName": "afaf",
+      "email": "afd@g.com",
+      "phone": "666",
+      "salary": "6665454"
+    },
+    {
+      "id": 8,
+      "firstName": "adcdfgd",
+      "email": "ada@g.com",
+      "phone": "555555",
+      "salary": "5522"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
