@@ -9,11 +9,14 @@ import { EmployeeDashboardComponent } from './employee-dashboard/employee-dashbo
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import {HttpClientModule} from '@angular/common/http';
 import {NgxPaginationModule} from 'ngx-pagination';
+import { ProductComponent } from './product/product.component';
+import { BsDatepickerModule } from 'ngx-bootstrap/datepicker';
 
 @NgModule({
   declarations: [
     AppComponent,
-    EmployeeDashboardComponent
+    EmployeeDashboardComponent,
+    ProductComponent
   ],
   imports: [
     BrowserModule,
@@ -23,7 +26,8 @@ import {NgxPaginationModule} from 'ngx-pagination';
     ReactiveFormsModule,
     HttpClientModule,
     FormsModule,
-    NgxPaginationModule
+    NgxPaginationModule,
+    BsDatepickerModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]
