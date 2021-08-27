@@ -42,6 +42,41 @@
       "email": "ada@g.com",
       "phone": "555555",
       "salary": "5522"
+    },
+    {
+      "id": 9,
+      "firstName": "kawasar",
+      "email": "krm@gmail.com",
+      "phone": "011721456",
+      "salary": "56623"
+    },
+    {
+      "id": 10,
+      "firstName": "Muktadir",
+      "email": "mkr@gmail.com",
+      "phone": "0157944",
+      "salary": "3693"
+    },
+    {
+      "id": 11,
+      "firstName": "Rahim",
+      "email": "mn@gmail.com",
+      "phone": "018421566",
+      "salary": "2596"
+    },
+    {
+      "id": 12,
+      "firstName": "Isa",
+      "email": "isa@gmail.com",
+      "phone": "01968565",
+      "salary": "5663"
+    },
+    {
+      "id": 13,
+      "firstName": "Musa",
+      "email": "musa@gmai.com",
+      "phone": "016262829",
+      "salary": "25000"
     }
   ],
   "comments": [],
